@@ -8,5 +8,5 @@ Primeiro Passo, instalar as bibliotecas necessárias:
 
 
 </br></br>
-Trocar o destinatário e executar o script!!!
+Trocar o destinatário, colocar suas credenciais do e-mail e executar o script!!!
 - python enviar_email.py
