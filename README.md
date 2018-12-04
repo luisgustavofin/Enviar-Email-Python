@@ -3,7 +3,7 @@ Enviar e-mail utilizando python sem que ele caia no spam, podendo ser enviado co
 
 </br></br>
 
-Não precisa instalar a biblioteca.
+Não precisa instalar bibliotecas.
 
 
 </br></br>
