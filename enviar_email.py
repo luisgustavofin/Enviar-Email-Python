@@ -14,7 +14,7 @@ def Enviar_Email(email_destinatario):
         #Pode deixar tudo generico apartir daqui
         gmail_sender = 'seu_email@gmail.com' # favor colocar email com dominio do gmail
         gmail_passwd = 'Colocar aqui sua senha'
-        server = smtplib.SMTP('smtp.gmail.com', 587) #L E M B R A R  -  de liberar a porta 587 
+        server = smtplib.SMTP('smtp.gmail.com', 587) #L E M B R A R  -  de liberar a porta 587
         server.ehlo()
         server.starttls()
         server.ehlo
@@ -27,4 +27,4 @@ def Enviar_Email(email_destinatario):
 #FIM  DA  DEF  DE ENVIAR E-MAIL
 
 
-Enviar_Email('email_do_destinatario@gmail.com') # favor colocar email com dominio do gmail
+Enviar_Email('email_do_destinatario@email.com') # destinatário pode ser qualquer e-mail ^^
