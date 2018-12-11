@@ -8,5 +8,5 @@ Não precisa instalar bibliotecas.
 
 </br></br>
 Trocar o destinatário, colocar suas credenciais do e-mail e executar o script!!!   :smile: 
-- python enviar_email.py
+- python enviar_email.py seu_email_gmail@gmail.com sua_senha email_qualquer_destinatario@email.com
 
