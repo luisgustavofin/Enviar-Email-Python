@@ -1,5 +1,5 @@
 # Enviar Email Utilizando Python!!! 
-Enviar e-mail utilizando python sem que ele caia no spam, podendo ser enviado com caracteres especiais, letras com acentos, 'ç' e tudo mais!
+Enviar e-mail sem que ele caia no spam, podendo ser enviado com caracteres especiais, letras com acentos, 'ç' e tudo mais!
 
 </br></br>
 
